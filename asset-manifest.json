@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bank-dashboard-ui/static/css/main.48c9435a.chunk.css",
+    "main.js": "/bank-dashboard-ui/static/js/main.ad605519.chunk.js",
+    "main.js.map": "/bank-dashboard-ui/static/js/main.ad605519.chunk.js.map",
+    "runtime-main.js": "/bank-dashboard-ui/static/js/runtime-main.01bca5a9.js",
+    "runtime-main.js.map": "/bank-dashboard-ui/static/js/runtime-main.01bca5a9.js.map",
+    "static/js/2.ef561f5c.chunk.js": "/bank-dashboard-ui/static/js/2.ef561f5c.chunk.js",
+    "static/js/2.ef561f5c.chunk.js.map": "/bank-dashboard-ui/static/js/2.ef561f5c.chunk.js.map",
+    "index.html": "/bank-dashboard-ui/index.html",
+    "precache-manifest.75ebe20b5413c74124fd7c50b4bdeb6e.js": "/bank-dashboard-ui/precache-manifest.75ebe20b5413c74124fd7c50b4bdeb6e.js",
+    "service-worker.js": "/bank-dashboard-ui/service-worker.js",
+    "static/css/main.48c9435a.chunk.css.map": "/bank-dashboard-ui/static/css/main.48c9435a.chunk.css.map",
+    "static/js/2.ef561f5c.chunk.js.LICENSE.txt": "/bank-dashboard-ui/static/js/2.ef561f5c.chunk.js.LICENSE.txt",
+    "static/media/Map.png": "/bank-dashboard-ui/static/media/Map.52fc25da.png",
+    "static/media/account_balance-24px.svg": "/bank-dashboard-ui/static/media/account_balance-24px.c9562126.svg",
+    "static/media/visa_card.png": "/bank-dashboard-ui/static/media/visa_card.e214fea6.png",
+    "static/media/visa_card2.png": "/bank-dashboard-ui/static/media/visa_card2.e5e40c58.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01bca5a9.js",
+    "static/js/2.ef561f5c.chunk.js",
+    "static/css/main.48c9435a.chunk.css",
+    "static/js/main.ad605519.chunk.js"
+  ]
+}
